@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Things to Do - Discover Kerala</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">Discover Kerala</div>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="destinations.html">Destinations</a>
+            <a href="things-to-do.html" class="active">Things to Do</a>
+            <a href="about-kerala.html">About Kerala</a>
+            <a href="contact-us.html">Contact Us</a>
+            <div id="google_translate_element"></div>
+            <button type="button" class="size-btn" onclick="changeTextSize(-1)"
+                aria-label="Decrease text size">A&minus;</button>
+            <button type="button" class="size-btn" onclick="changeTextSize(1)"
+                aria-label="Increase text size">A+</button>
+            <button type="button" class="size-btn mode-btn" id="modeBtn" onclick="toggleMode()"
+                aria-label="Switch between dark and light mode">&#9790; Dark</button>
+        </nav>
+    </header>
+    <main>
+        <section class="page-heading">
+            <h1>Things to Do in Kerala</h1>
+            <p>Explore the beauty, culture and adventures of God's Own Country.</p>
+        </section>
+        <section class="activities-section">
+            <div class="activity-buttons">
+                <button type="button" onclick="showActivities('all', this)" class="active">Show All</button>
+                <button type="button" onclick="showActivities('adventure', this)">Adventure</button>
+                <button type="button" onclick="showActivities('wildlife', this)">Wildlife</button>
+                <button type="button" onclick="showActivities('wellness', this)">Ayurveda &amp; Wellness</button>
+                <button type="button" onclick="showActivities('culture', this)">Culture &amp; Heritage</button>
+            </div>
+            <div class="activities">
+                <div class="activity-card" data-category="adventure">
+                    <img src="munnar trekking.jpeg" alt="Trekking in Munnar">
+                    <h2>Trekking in Munnar</h2>
+                    <p>Enjoy beautiful mountain views and explore the green hills of Munnar.</p>
+                </div>
+                <div class="activity-card" data-category="adventure">
+                    <img src="Houseboat image.jpeg" alt="Kerala houseboat cruise">
+                    <h2>Houseboat Cruise</h2>
+                    <p>Relax on a traditional houseboat and enjoy the peaceful Kerala backwaters.</p>
+                </div>
+                <div class="activity-card" data-category="wellness">
+                    <img src="Ayurveda spa image.jpeg" alt="Ayurveda spa treatment">
+                    <h2>Ayurveda Spa Retreat</h2>
+                    <p>Experience traditional Ayurvedic treatments and enjoy a relaxing break.</p>
+                </div>
+                <div class="activity-card" data-category="wildlife">
+                    <img src="wildlife safari image.jpeg" alt="Wildlife safari in Kerala">
+                    <h2>Wildlife Safari</h2>
+                    <p>Discover Kerala's forests and look for elephants, birds and other wildlife.</p>
+                </div>
+                <div class="activity-card" data-category="culture">
+                    <img src="kathakali image.jpeg" alt="Traditional Kathakali performance">
+                    <h2>Kathakali Cultural Show</h2>
+                    <p>Watch Kerala's famous traditional dance with colourful costumes and makeup.</p>
+                </div>
+                <div class="activity-card" data-category="culture">
+                    <img src="spice plantation image.jpeg" alt="Kerala spice plantation">
+                    <h2>Spice Plantation Tour</h2>
+                    <p>Explore spice gardens and learn about the spices grown in Kerala.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-info">
+            <h3>Discover Kerala</h3>
+            <p>&copy; 2026 Discover Kerala. All Rights Reserved.</p>
+            <p>Website created by Nistal Sogi</p>
+            <h3>Follow Us</h3>
+            <div class="social-icons">
+                <a href="https://www.facebook.com" aria-label="Facebook" target="_blank" rel="noopener">f</a>
+                <a href="https://x.com" aria-label="X" target="_blank" rel="noopener">X</a>
+                <a href="https://www.youtube.com" aria-label="YouTube" target="_blank" rel="noopener">&#9654;</a>
+            </div>
+        </div>
+        <div class="newsletter">
+            <h3>Newsletter signup</h3>
+            <div class="newsletter-form">
+                <label for="email" class="sr">Email address</label>
+                <input type="email" id="email" placeholder="Enter your email">
+                <button type="button" onclick="joinNewsletter()">Join</button>
+            </div>
+            <p id="newsletter-msg" role="status" class="msg"></p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+
+</html>

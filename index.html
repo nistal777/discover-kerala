@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Kerala</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">Discover Kerala</div>
+        <nav aria-label="Main navigation">
+            <a href="index.html" class="active">Home</a>
+            <a href="destinations.html">Destinations</a>
+            <a href="things-to-do.html">Things to Do</a>
+            <a href="about-kerala.html">About Kerala</a>
+            <a href="contact-us.html">Contact Us</a>
+            <div id="google_translate_element"></div>
+            <button type="button" class="size-btn" onclick="changeTextSize(-1)"
+                aria-label="Decrease text size">A&minus;</button>
+            <button type="button" class="size-btn" onclick="changeTextSize(1)"
+                aria-label="Increase text size">A+</button>
+            <button type="button" class="size-btn mode-btn" id="modeBtn" onclick="toggleMode()"
+                aria-label="Switch between dark and light mode">&#9790; Dark</button>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <img src="IMAGE.jpg" alt="Kerala Backwaters">
+            <div class="birds" aria-hidden="true">
+                <div class="bird b1"><svg viewBox="0 0 40 20">
+                        <path d="M2 14 Q10 0 20 12 Q30 0 38 14" />
+                    </svg></div>
+                <div class="bird b2"><svg viewBox="0 0 40 20">
+                        <path d="M2 14 Q10 0 20 12 Q30 0 38 14" />
+                    </svg></div>
+                <div class="bird b3"><svg viewBox="0 0 40 20">
+                        <path d="M2 14 Q10 0 20 12 Q30 0 38 14" />
+                    </svg></div>
+                <div class="bird b4"><svg viewBox="0 0 40 20">
+                        <path d="M2 14 Q10 0 20 12 Q30 0 38 14" />
+                    </svg></div>
+            </div>
+        </section>
+        <section class="welcome">
+            <h1>"Discover God's Own Country"</h1>
+            <button type="button" onclick="planTrip()">Plan My Trip</button>
+        </section>
+        <section class="categories">
+            <h2>Explore by category</h2>
+            <div class="category-container">
+                <div class="category-card"><a href="destinations.html#beach"><img src="Beach image.jpeg"
+                            alt="Kerala Beaches">
+                        <h3>Beaches</h3>
+                    </a></div>
+                <div class="category-card"><a href="destinations.html#backwaters"><img src="Backwater image.jpeg"
+                            alt="Kerala Backwaters">
+                        <h3>Backwaters</h3>
+                    </a></div>
+                <div class="category-card"><a href="destinations.html#hill-station"><img src="Hill image.jpeg"
+                            alt="Kerala Hill Stations">
+                        <h3>Hill stations</h3>
+                    </a></div>
+            </div>
+        </section>
+        <section class="featured">
+            <h2>Featured destinations</h2>
+            <div class="dest-grid">
+                <a class="dest-card" href="munnar.html">
+                    <img src="Hill image.jpeg" alt="Tea-covered hills of Munnar">
+                    <h3>Munnar</h3>
+                    <span>Hill station</span>
+                </a>
+                <a class="dest-card" href="alleppey.html">
+                    <img src="Backwater image.jpeg" alt="Backwaters at Alleppey">
+                    <h3>Alleppey</h3>
+                    <span>Backwaters</span>
+                </a>
+                <a class="dest-card" href="kovalam.html">
+                    <img src="Beach image.jpeg" alt="Beach at Kovalam">
+                    <h3>Kovalam</h3>
+                    <span>Beach</span>
+                </a>
+                <a class="dest-card" href="athirappilly.html">
+                    <img src="wildlife safari image.jpeg" alt="Forest near Athirappilly Falls">
+                    <h3>Athirappilly</h3>
+                    <span>Waterfall</span>
+                </a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-info">
+            <h3>Discover Kerala</h3>
+            <p>&copy; 2026 Discover Kerala. All Rights Reserved.</p>
+            <p>Website created by Nistal Sogi</p>
+            <h3>Follow Us</h3>
+            <div class="social-icons">
+                <a href="https://www.facebook.com" aria-label="Facebook" target="_blank" rel="noopener">f</a>
+                <a href="https://x.com" aria-label="X" target="_blank" rel="noopener">X</a>
+                <a href="https://www.youtube.com" aria-label="YouTube" target="_blank" rel="noopener">&#9654;</a>
+            </div>
+        </div>
+        <div class="newsletter">
+            <h3>Newsletter signup</h3>
+            <div class="newsletter-form">
+                <label for="email" class="sr">Email address</label>
+                <input type="email" id="email" placeholder="Enter your email">
+                <button type="button" onclick="joinNewsletter()">Join</button>
+            </div>
+            <p id="newsletter-msg" role="status" class="msg"></p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+
+</html>

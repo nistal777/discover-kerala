@@ -1,0 +1,893 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="4m5a_2DnARDmPGWRhhU0">
+    <mxGraphModel dx="1471" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U-ghtKTMQd97oruMdFVf-2" edge="1" parent="1" source="va4_TzXAQT0eNC1ZwX4A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Home" vertex="1">
+          <mxGeometry height="40" width="136" x="350" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-23" edge="1" parent="1" source="va4_TzXAQT0eNC1ZwX4A-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="128.0000000000001" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Destinations" vertex="1">
+          <mxGeometry height="40" width="136" x="60" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Things to Do" vertex="1">
+          <mxGeometry height="40" width="136" x="278" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Contact Us" vertex="1">
+          <mxGeometry height="40" width="136" x="650" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="About Kerala" vertex="1">
+          <mxGeometry height="40" width="136" x="470" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Munnar" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Alleppey" vertex="1">
+          <mxGeometry height="30" width="110" x="140" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Kovalam" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Athirapilly" vertex="1">
+          <mxGeometry height="30" width="110" x="140" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="va4_TzXAQT0eNC1ZwX4A-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter: Adventure / Wildlife / Ayurveda / Culture" vertex="1">
+          <mxGeometry height="40" width="144" x="278" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="720" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="190" as="sourcePoint" />
+            <mxPoint x="120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="345.62" y="190" as="sourcePoint" />
+            <mxPoint x="345.62" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="537.62" y="190" as="sourcePoint" />
+            <mxPoint x="537.62" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="720" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="250" as="sourcePoint" />
+            <mxPoint x="190" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="270" as="sourcePoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="190" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="70" y="320" as="sourcePoint" />
+            <mxPoint x="70" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-31" edge="1" parent="1" source="va4_TzXAQT0eNC1ZwX4A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="va4_TzXAQT0eNC1ZwX4A-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-ghtKTMQd97oruMdFVf-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="252" x="278" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-3" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="509" y="454.8" as="sourcePoint" />
+            <mxPoint x="529" y="454.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="509" y="454.8" as="sourcePoint" />
+            <mxPoint x="529" y="454.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.004;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.007;exitY=0.107;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530.7559999999999" y="585.36" as="sourcePoint" />
+            <mxPoint x="278" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Discover God&#39;s Own Country&lt;/b&gt;" vertex="1">
+          <mxGeometry height="10" width="190" x="319" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Plan My Trip" vertex="1">
+          <mxGeometry height="20" width="100" x="364" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Explore&amp;nbsp; by category" vertex="1">
+          <mxGeometry height="30" width="120" x="278" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-10" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="&lt;b&gt;Beaches&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="48" x="300" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-11" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="&lt;b&gt;Backwaters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="48" x="374" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-12" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="&lt;b&gt;Hill stations&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="48" x="448" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Featured destinations" vertex="1">
+          <mxGeometry height="30" width="126" x="278" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-15" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="" vertex="1">
+          <mxGeometry height="82.5" width="120" x="338" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="60" width="196" x="300" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Munnar / Alleppey / Kovalam / Athirapilly" vertex="1">
+          <mxGeometry height="30" width="209" x="300" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="48" width="215" x="296.5" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="134" x="319" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="134" x="310" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="48" x="453" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-26" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="296.5" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="209" x="260" y="898" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="545.5" x="104.25" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#121212, #ededed);" value="" vertex="1">
+          <mxGeometry height="30" width="252" x="278" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-32" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;strokeColor=light-dark(#f8f7f7, #ededed);" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="500" y="454.89" as="sourcePoint" />
+            <mxPoint x="520" y="454.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f1e9ee, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="454.89" as="sourcePoint" />
+            <mxPoint x="520" y="454.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#151313, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="545.5" x="104.25" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-35" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="110" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(250, 250, 250), rgb(237, 237, 237));&quot;&gt;Home&amp;nbsp; &amp;nbsp; &amp;nbsp; Destinations&amp;nbsp; &amp;nbsp;Things to Do&amp;nbsp; &amp;nbsp; About Kerala&amp;nbsp; &amp;nbsp;Contact Us&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="440" x="230" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="649.75" y="1190" as="sourcePoint" />
+            <mxPoint x="104" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&quot;Discover God&#39;s Own Country&quot;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="262" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Plan My Trip" vertex="1">
+          <mxGeometry height="30" width="126" x="314" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Explore&amp;nbsp; by category" vertex="1">
+          <mxGeometry height="60" width="143" x="102" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-46" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="Beaches" vertex="1">
+          <mxGeometry height="90" width="90" x="135" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-48" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="Backwaters" vertex="1">
+          <mxGeometry height="90" width="90" x="310" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-49" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="Hill stations" vertex="1">
+          <mxGeometry height="90" width="90" x="501" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Featured destinations" vertex="1">
+          <mxGeometry height="40" width="160" x="93.5" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="100" width="495" x="129.5" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Munnar / Alleppey / Kovalam/ Athirapilly&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="380" x="187" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Discover Kerala" vertex="1">
+          <mxGeometry height="30" width="100" x="120" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="120" y="1629.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-56" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="9.5" width="9.5" x="120" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="69.75" width="324.5" x="300" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="216" x="314" y="1629.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="51" x="550" y="1629.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="361.5" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-65" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="" vertex="1">
+          <mxGeometry height="110" width="160" x="306" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-66" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="120" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-68" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="156" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-69" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="192" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follow Us" vertex="1">
+          <mxGeometry height="30" width="60" x="137.63" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="252" x="778" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-72" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1009" y="514.8" as="sourcePoint" />
+            <mxPoint x="1029" y="514.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-73" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1009" y="514.8" as="sourcePoint" />
+            <mxPoint x="1029" y="514.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="48" width="215" x="796.5" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="134" x="819" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="134" x="810" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="48" x="953" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-89" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="796.5" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="209" x="760" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#121212, #ededed);" value="" vertex="1">
+          <mxGeometry height="30" width="252" x="778" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-92" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;strokeColor=light-dark(#f8f7f7, #ededed);" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1000" y="514.89" as="sourcePoint" />
+            <mxPoint x="1020" y="514.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-93" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f1e9ee, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1000" y="514.89" as="sourcePoint" />
+            <mxPoint x="1020" y="514.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="288" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="786" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Destinations&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80.5" x="786" y="532.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="Search destinations.." vertex="1">
+          <mxGeometry height="30" width="230" x="789" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="All" vertex="1">
+          <mxGeometry height="20" width="24" x="786" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beaches" vertex="1">
+          <mxGeometry height="20" width="58" x="819" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Backwaters" vertex="1">
+          <mxGeometry height="20" width="70" x="883" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hills" vertex="1">
+          <mxGeometry height="20" width="58" x="959" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-102" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Munnar" vertex="1">
+          <mxGeometry height="60" width="87.27" x="860.37" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-103" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Alleppey" vertex="1">
+          <mxGeometry height="60" width="87.27" x="860.37" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-104" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Athirapilly" vertex="1">
+          <mxGeometry height="60" width="87.27" x="860.37" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="430" width="545.5" x="1050.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#151313, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="545.5" x="1050.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-107" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1056.5" y="1065" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Discover Kerala" vertex="1">
+          <mxGeometry height="30" width="100" x="1100.13" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1110" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-120" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="9.5" width="9.5" x="1106.75" y="1410.25" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="69.75" width="324.5" x="1260" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="216" x="1289.49" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="51" x="1526" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="1347" y="1395" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-126" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1093" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-127" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1126.75" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-128" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1158.38" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follow Us" vertex="1">
+          <mxGeometry height="30" width="60" x="1110" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(250, 250, 250);&quot;&gt;Home&amp;nbsp; &amp;nbsp; &amp;nbsp; Destinations&amp;nbsp; &amp;nbsp;Things to Do&amp;nbsp; &amp;nbsp; About Kerala&amp;nbsp; &amp;nbsp;Contact Us&lt;/span&gt;" vertex="1">
+          <mxGeometry height="35" width="380" x="1216.25" y="1065" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Destinations&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1090" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="Search destinations.." vertex="1">
+          <mxGeometry height="30" width="180" x="1080" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="All" vertex="1">
+          <mxGeometry height="20" width="24" x="1280" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beaches" vertex="1">
+          <mxGeometry height="20" width="58" x="1320" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Backwaters" vertex="1">
+          <mxGeometry height="20" width="70" x="1388" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hills" vertex="1">
+          <mxGeometry height="20" width="58" x="1468" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wildlife" vertex="1">
+          <mxGeometry height="20" width="58" x="1536" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-141" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Munnar" vertex="1">
+          <mxGeometry height="83.2" width="121" x="1060" y="1216.8" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-142" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Alleppey" vertex="1">
+          <mxGeometry height="83.2" width="121.01" x="1200" y="1216.8" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-143" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Kovalam" vertex="1">
+          <mxGeometry height="83.2" width="121.01" x="1336.99" y="1216.8" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-144" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Athirapilly" vertex="1">
+          <mxGeometry height="83.2" width="121.01" x="1468" y="1216.8" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="252" x="1188" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-150" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1419" y="504.79999999999995" as="sourcePoint" />
+            <mxPoint x="1439" y="504.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-151" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1419" y="504.79999999999995" as="sourcePoint" />
+            <mxPoint x="1439" y="504.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-152" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="48" width="215" x="1206.5" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="134" x="1229" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="134" x="1220" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="48" x="1363" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-156" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="1206.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="209" x="1170" y="948" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#121212, #ededed);" value="" vertex="1">
+          <mxGeometry height="30" width="252" x="1188" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-159" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;strokeColor=light-dark(#f8f7f7, #ededed);" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1410" y="504.89" as="sourcePoint" />
+            <mxPoint x="1430" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-160" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f1e9ee, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1410" y="504.89" as="sourcePoint" />
+            <mxPoint x="1430" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1196" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Things to Do&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="96" x="1196" y="522.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Adventure" vertex="1">
+          <mxGeometry height="20" width="96" x="1206.5" y="572.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wildlife" vertex="1">
+          <mxGeometry height="20" width="100" x="1320" y="572.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-168" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Trekking in the Munnar" vertex="1">
+          <mxGeometry height="60" width="87.27" x="1270.37" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-169" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Houseboat cruise" vertex="1">
+          <mxGeometry height="60" width="87.27" x="1270.37" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-170" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Ayurveda spa day" vertex="1">
+          <mxGeometry height="60" width="87.27" x="1270.37" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ayurveda" vertex="1">
+          <mxGeometry height="20" width="96" x="1208" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Culture" vertex="1">
+          <mxGeometry height="20" width="100" x="1320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-173" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="500" width="545.5" x="920" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-174" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#151313, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="545.5" x="920" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-175" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="925.75" y="1565" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Discover Kerala" vertex="1">
+          <mxGeometry height="30" width="100" x="965.2400000000001" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="977.38" y="1970" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-178" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="9.5" width="9.5" x="977.38" y="1980.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="69.75" width="324.5" x="1133.5" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-180" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="216" x="1152.5" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="51" x="1389.01" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="1194.01" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-183" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="969.13" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-184" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1003.62" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-185" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1035.75" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follow Us" vertex="1">
+          <mxGeometry height="30" width="60" x="985.25" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(250, 250, 250);&quot;&gt;Home&amp;nbsp; &amp;nbsp; &amp;nbsp; Destinations&amp;nbsp; &amp;nbsp;Things to Do&amp;nbsp; &amp;nbsp; About Kerala&amp;nbsp; &amp;nbsp;Contact Us&lt;/span&gt;" vertex="1">
+          <mxGeometry height="35" width="380" x="1085.5" y="1565" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Things to Do&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="959.25" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adventure" vertex="1">
+          <mxGeometry height="20" width="110" x="960.25" y="1649.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-195" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Trekking in Munnar" vertex="1">
+          <mxGeometry height="83.2" width="121" x="959.25" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-196" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Houseboat cruise" vertex="1">
+          <mxGeometry height="83.2" width="121.01" x="1138.99" y="1703" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-197" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Ayurveda spa retreat" vertex="1">
+          <mxGeometry height="83.2" width="121.01" x="1319" y="1703" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-199" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wildlife" vertex="1">
+          <mxGeometry height="20" width="110" x="1080.26" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-200" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ayurveda &amp;amp; Wellness" vertex="1">
+          <mxGeometry height="20" width="121" x="1200" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-201" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Culture &amp;amp; Heritage" vertex="1">
+          <mxGeometry height="20" width="110" x="1336.25" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-204" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Wildlife safari" vertex="1">
+          <mxGeometry height="83.2" width="121" x="960.25" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-205" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Kathakali Culture show" vertex="1">
+          <mxGeometry height="83.2" width="121" x="1139" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-206" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="Spice plantation tour" vertex="1">
+          <mxGeometry height="83.2" width="121" x="1321" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-207" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="252" x="1568" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-208" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1799" y="504.8" as="sourcePoint" />
+            <mxPoint x="1819" y="504.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-209" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1799" y="504.8" as="sourcePoint" />
+            <mxPoint x="1819" y="504.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-210" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.004;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.007;exitY=0.107;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1820.7559999999999" y="635.36" as="sourcePoint" />
+            <mxPoint x="1568" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-217" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Where we are&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="126" x="1550" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-218" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="" vertex="1">
+          <mxGeometry height="82.5" width="120" x="1628" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-221" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="48" width="215" x="1586.5" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-222" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="134" x="1609" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-223" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="134" x="1600" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="48" x="1743" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-225" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="1586.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-226" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="209" x="1550" y="948" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-227" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#121212, #ededed);" value="" vertex="1">
+          <mxGeometry height="30" width="252" x="1568" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-228" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;strokeColor=light-dark(#f8f7f7, #ededed);" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="1790" y="504.89" as="sourcePoint" />
+            <mxPoint x="1810" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-229" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f1e9ee, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1790" y="504.89" as="sourcePoint" />
+            <mxPoint x="1810" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1578" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;About Kerala&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1558" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Kerala is &quot;God&#39;s Own Country&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="48" width="304" x="1526" y="656" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-233" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="&lt;b&gt;Culture photo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="48" x="1594" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-234" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" value="Map of Kerala" vertex="1">
+          <mxGeometry height="70" width="80.5" x="1646.73" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-235" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="545.5" x="1710.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#151313, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="545.5" x="1710.75" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-237" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1716.5" y="1065" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-238" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(250, 250, 250), rgb(237, 237, 237));&quot;&gt;Home&amp;nbsp; &amp;nbsp; &amp;nbsp; Destinations&amp;nbsp; &amp;nbsp;Things to Do&amp;nbsp; &amp;nbsp; About Kerala&amp;nbsp; &amp;nbsp;Contact Us&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="440" x="1836.5" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-239" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2256.25" y="1240" as="sourcePoint" />
+            <mxPoint x="1710.5" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;About Kerala&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="143" x="1705" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-245" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="gallary" vertex="1">
+          <mxGeometry height="90" width="90" x="2066.5" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-246" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Where we are&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1705" y="1395" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-249" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Discover Kerala" vertex="1">
+          <mxGeometry height="30" width="100" x="1726.5" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-250" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1726.5" y="1679.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-251" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="9.5" width="9.5" x="1726.5" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-252" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="69.75" width="324.5" x="1906.5" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="216" x="1920.5" y="1679.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-254" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="51" x="2156.5" y="1679.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-255" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="1968" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-256" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.502,0],[0.985,0.008,0],[0.985,0.992,0],[0.015,0.992,0],[0.015,0.008,0]];" value="" vertex="1">
+          <mxGeometry height="110" width="160" x="1912.5" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-257" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1726.5" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-258" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1762.5" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-259" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="1798.5" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-260" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follow Us" vertex="1">
+          <mxGeometry height="30" width="60" x="1744.13" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-261" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kerala is &quot;God&#39;s Own Country&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="324.5" x="1676" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-264" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;fillColor=none;strokeColor=none;" value="Interactive map of Kerala&#39;s regions" vertex="1">
+          <mxGeometry height="170" width="270" x="1836.5" y="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="252" x="1918" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-266" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="2149" y="504.8" as="sourcePoint" />
+            <mxPoint x="2169" y="504.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-267" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2149" y="504.8" as="sourcePoint" />
+            <mxPoint x="2169" y="504.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="48" width="215" x="1936.5" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-272" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="134" x="1959" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-273" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="134" x="1950" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-274" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="48" x="2093" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-275" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="1936.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-276" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="209" x="1900" y="948" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-277" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#121212, #ededed);" value="" vertex="1">
+          <mxGeometry height="30" width="252" x="1918" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-278" edge="1" parent="1" style="shape=link;html=1;rounded=0;width=12;strokeColor=light-dark(#f8f7f7, #ededed);" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="2140" y="504.89" as="sourcePoint" />
+            <mxPoint x="2160" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-279" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#f1e9ee, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2140" y="504.89" as="sourcePoint" />
+            <mxPoint x="2160" y="504.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-280" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1928" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Contact Us&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1920.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="230" x="1929" y="572.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="230" x="1929" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-287" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="" vertex="1">
+          <mxGeometry height="70" width="230" x="1929" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Submit" vertex="1">
+          <mxGeometry height="20" width="87.27" x="1933.23" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-289" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Name&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1920.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-291" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Email&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1918" y="602.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-292" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Message&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1928" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-293" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Or reach us at:&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="1916.87" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-294" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;info@discoverkerala.com | +91 xxx xxx xxxx&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="1906" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-295" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="545.5" x="2395.75" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-296" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#151313, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="545.5" x="2395.75" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-297" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;color: light-dark(rgb(245, 240, 240), rgb(237, 237, 237));&quot;&gt;Discover Kerala&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="2401.5" y="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-298" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(250, 250, 250), rgb(237, 237, 237));&quot;&gt;Home&amp;nbsp; &amp;nbsp; &amp;nbsp; Destinations&amp;nbsp; &amp;nbsp;Things to Do&amp;nbsp; &amp;nbsp; About Kerala&amp;nbsp; &amp;nbsp;Contact Us&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="440" x="2521.5" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-303" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Discover Kerala" vertex="1">
+          <mxGeometry height="30" width="100" x="2411.5" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-304" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;2026 Discover Kerala. All Rights Reserved&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="2411.5" y="1689.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-305" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-filled/1/Circle_Letter_C.svg" value="" vertex="1">
+          <mxGeometry height="9.5" width="9.5" x="2411.5" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-306" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="69.75" width="324.5" x="2591.5" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="20" width="216" x="2605.5" y="1689.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-308" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Join" vertex="1">
+          <mxGeometry height="20" width="51" x="2841.5" y="1689.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-309" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Newsletter&amp;nbsp; signup&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="2653" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-311" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="2411.5" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-312" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="2447.5" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-313" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube_2;fillColor=#FF2626;gradientColor=#B5171F" value="" vertex="1">
+          <mxGeometry height="20" width="23.25" x="2483.5" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-314" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Follow Us" vertex="1">
+          <mxGeometry height="30" width="60" x="2429.13" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-316" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Contact Us&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="48" width="126" x="2414.5" y="1132" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-317" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="266" x="2447.5" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-318" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="266" x="2447.5" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-319" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="139.75" width="306.25" x="2447.5" y="1380.25" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-321" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Name" vertex="1">
+          <mxGeometry height="30" width="60" x="2447.5" y="1186.8" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-323" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Email" vertex="1">
+          <mxGeometry height="30" width="60" x="2447.5" y="1275" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-324" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Message" vertex="1">
+          <mxGeometry height="30" width="60" x="2461.5" y="1350.25" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Submit" vertex="1">
+          <mxGeometry height="30" width="110" x="2473.48" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-326" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;info@discoverkerala.com | +91 xxx xxx xxxx | Thiruvananthapuram, Kerala&lt;/font&gt;" vertex="1">
+          <mxGeometry height="37.75" width="545.5" x="2360" y="1589.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-327" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Or reach us at:&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="191.5" x="2400" y="1537.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oyseIaIfE4K2IvRNSBMj-328" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" value="" vertex="1">
+          <mxGeometry height="134" width="134" x="2774" y="1216.8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
